@@ -5,5 +5,8 @@
 	👉 MySQL Server (https://www.mysql.com/downloads/)
 	👉 IDE: IntelliJ IDEA (https://www.jetbrains.com/idea/download/?section=windows)
 	👉 Postman(https://www.postman.com/downloads/)
-## Walkthrough for this project:
+## Development Walkthrough for this project:
+For the sake of understanding I'm dividing the development into several phases.
+#### Phase 1: Foundation & Core Backend API:
+
 	
