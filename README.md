@@ -7,6 +7,6 @@
 	👉 Postman(https://www.postman.com/downloads/)
 ## Development Walkthrough for this project:
 For the sake of understanding I'm dividing the development into several phases.
-#### Phase 1: Foundation & Core Backend API:
+### Phase 1: Foundation & Core Backend API:
 
 	
