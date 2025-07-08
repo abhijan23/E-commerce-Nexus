@@ -30,3 +30,15 @@ iv> Lombok: A fantastic library that reduces boilerplate code like getters, sett
 v> Spring Boot DevTools: Provides fast application restarts, and other development-time features.
 Click on Generate and unzip it to the local folder.
 ```
+#### Step 2: Configure the MySQL Database Connection:
+Navigate to the src/main/resources folder in your project. <br>
+Open the application.properties file and add following configuration code:
+```
+spring.datasource.url=jdbc:mysql://localhost:3306/ecommerce_db?createDatabaseIfNotExist=true
+spring.datasource.username=your_mysql_username
+spring.datasource.password=your_mysql_password
+spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
+spring.jpa.hibernate.ddl-auto=update
+spring.jpa.show-sql=true
+spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MySQLDialect
+```
