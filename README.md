@@ -22,4 +22,11 @@ Description: E-commerce Nexus Project
 Package name: com.nexus.ecommerce
 Packaging: Jar
 Java: 17
+Add Dependenceies:
+i> Spring Web: Needed to build RESTful web applications. It includes the Apache Tomcat server by default.
+ii> Spring Data JPA: To persist data in SQL stores with Java Persistence API using Spring Data and Hibernate.
+iii> MySQL Driver: The specific JDBC driver required to connect to a MySQL database.
+iv> Lombok: A fantastic library that reduces boilerplate code like getters, setters, and constructors by using annotations.
+v> Spring Boot DevTools: Provides fast application restarts, and other development-time features.
+Click on Generate and unzip it to the local folder.
 ```
