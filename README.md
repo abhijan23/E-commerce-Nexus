@@ -9,7 +9,7 @@
 For the sake of understanding I'm dividing the development into several phases.
 ### Phase 1: Foundation & Core Backend API:
 #### Step 1: Initialize Your Spring Boot Project:
-Open browser and go to [Link](https://start.spring.io/)
+Open browser and go to [Link](https://start.spring.io/) <br>
 Fill in the Project Metadata on the left side of the page as follows:
 ```
 Project: Maven
